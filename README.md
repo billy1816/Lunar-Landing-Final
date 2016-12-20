@@ -11,3 +11,8 @@ A la pàgina "Instrucciones" ens explica el funcionament del joc descrit anterio
 * Per les imatges, Adobe Photoshop CC
 * Per CSS, HTML i JS, Visual Studio 2015.
 * La font de les imatges és Freepik o de lliure distribució de la NASA
+
+En general, l'estructura proporcionada no ha estat modificada, només alguns paràmetres del JS per quadrar l'altura amb l'imatge de fons.
+També he afegit algunes variables aixi com la desactivació de les tecles després d'acabar el joc, això ha estat necessari perque si no el coet podia seguir encenguent-se.
+
+Com l'anterior treball, aquest té dues veriants, la versió Indent i la Minify. 
