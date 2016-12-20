@@ -1,0 +1,32 @@
+body,html{height:100%;padding:0px;margin:0px;background-image: url("../img/luna.png");}
+.box {
+background:white;
+height: 2px;
+width: 6px;
+margin-top: 5px;
+margin-right: auto;
+margin-bottom: 5px;
+margin-left: auto;
+color: navajowhite;
+position:absolute;
+top:25%;
+border: 5px solid #a70d0d;
+text-align:center;
+}
+h1{text-decoration:underline;}
+.c{position:fixed; height:100%; left:250px;display:none;z-index:1}
+.a{width:80%;height:80px;left:0px;overflow:hidden;position:fixed;top:0px}
+.c{display:none;}
+.d{height:auto; width:100%; position:fixed; bottom:0px;}
+#nau{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+#cpanel{color:darkred}
+#nau img{height:55%;}
+#cpanel, #menu{list-style-type:none;}
+#hidem,#showm{padding: 0%; float:right;color:red;width:auto;left:auto;}
+#hidem{float:right; left:480px;}
+#showm{left:480px;}
+#menu{float:right;width:100px;left:480px; height: auto; overflow:hidden;display: inline-block; background-color: white; opacity: 0.8;}
+#menu li{float: left; padding: 5px;display: inline;}
+a{color:black;text-align:center;text-decoration: none;}
+a:hover:not(.active){background-color:#b6ff00}
+
